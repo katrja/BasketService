@@ -1,0 +1,5 @@
+org/example/service/BasketController.class
+org/example/SwaggerConfig.class
+org/example/model/Basket.class
+org/example/model/Product.class
+org/example/Application.class
